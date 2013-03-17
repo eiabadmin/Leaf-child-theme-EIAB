@@ -1,0 +1,13 @@
+/*
+Theme Name: Leaf Child
+Description: Child theme for the Leaf theme.
+Author: Phap Tu
+Author URI: https://github.com/eiabadmin/Leaf-child-theme-EIAB/
+Template: leaf
+Version: 1.0
+*/
+
+@import url("../leaf/style.css");
+
+/* Add specific style overrides below.
+-------------------------------------*/
